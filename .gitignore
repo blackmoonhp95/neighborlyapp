@@ -1,3 +1,5 @@
 .vscode
 .venv
 *test*.py
+__pycache__/
+venv
